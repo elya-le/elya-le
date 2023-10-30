@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my first week at AppAcademy
+- 🔭 I’m currently attending my first week at AppAcademy
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with finding beginer friendly opensource projects that I can contibute in tandem to attending AppAcademy 
 
