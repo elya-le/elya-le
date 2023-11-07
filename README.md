@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🤔 I’m looking for help with finding beginer friendly opensource projects that I can contibute in tandem to attending AppAcademy 
-- 🔭 I’m currently attending my mod at AA
 - 🌱 I’m currently learning JavaScript
 
 
