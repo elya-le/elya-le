@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🤔 I’m looking for help with finding beginer friendly opensource projects that I can contibute in tandem to attending AppAcademy 
+- 🤔 I’m looking for help with finding beginer friendly opensource projects
 - 🌱 I’m currently learning JavaScript
 
 
