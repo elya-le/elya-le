@@ -1,6 +1,12 @@
 # 👋 Hi, I’m Elya!
 
-I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, and 3D art**. I specialize in creating **technically robust and thoughtfully designed applications**. I am actively shifting my work to focus on leveraging technology to build solutions that address real-world challenges, promote inclusion, and amplify underrepresented voices.
+I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, and 3D art**.
+
+## ✨ Goals
+
+I aim to contribute to technology that makes a tangible, positive impact by addressing real-world challenges. My focus is on building scalable, privacy-first applications that support inclusivity and accessibility. I’m driven by the opportunity to collaborate with teams that share a commitment to creating meaningful solutions that empower individuals and amplify underrepresented voices.
+
+
 
 ## 💡 What I’m Learning
 I’m currently focused on:
@@ -67,9 +73,4 @@ I’m currently focused on:
 - **Portfolio**: [elya.dev](https://elya.dev)
 - **Email**: [elya@example.com](mailto:elya@example.com)
 
----
-
-## ✨ Goals
-
-I aim to contribute to technology that makes a tangible, positive impact by addressing real-world challenges. My focus is on building scalable, privacy-first applications that support inclusivity and accessibility. I’m driven by the opportunity to collaborate with teams that share a commitment to creating meaningful solutions that empower individuals and amplify underrepresented voices.
 
