@@ -6,10 +6,7 @@ I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, an
 
 I aim to contribute to technology that makes a tangible, positive impact by addressing real-world challenges. My focus is on building scalable, privacy-first applications that support inclusivity and accessibility. I’m driven by the opportunity to collaborate with teams that share a commitment to creating meaningful solutions that empower individuals and amplify underrepresented voices.
 
-
-
-## 💡 What I’m Learning
-I’m currently focused on:
+I’m currently focused learning:
 - **Ruby on Rails**: Building scalable, secure applications with a robust backend framework.
 - **Socket.io with End-to-End Encryption**: Advancing real-time messaging systems with enhanced privacy and security.
 - **Svelte**: Improving efficiency and interactivity in frontend development.
