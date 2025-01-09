@@ -59,14 +59,25 @@ I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, an
 [![Gunicorn](https://img.shields.io/badge/Gunicorn-499848.svg?logo=gunicorn&logoColor=white)](https://gunicorn.org/)
 
 ### 🎨 Design Related Programs/Software
-[![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?logo=adobeaftereffects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)
-[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
-[![Adobe Media Encoder](https://img.shields.io/badge/Media%20Encoder-9999FF.svg?logo=adobe&logoColor=white)](https://www.adobe.com/products/media-encoder.html)
+
+#### **Adobe Suite**
+[![After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?logo=adobeaftereffects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)
+[![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
+[![Media Encoder](https://img.shields.io/badge/Media%20Encoder-9999FF.svg?logo=adobe&logoColor=white)](https://www.adobe.com/products/media-encoder.html)
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)](https://www.figma.com/)
+[![Sketch](https://img.shields.io/badge/Sketch-F7B500?logo=sketch&logoColor=white)](https://www.sketch.com/)
+
+#### **3D Design Tools**
+[![SketchUp](https://img.shields.io/badge/SketchUp-%23FF7057.svg?logo=sketchup&logoColor=white)](https://www.sketchup.com/)
+[![Rhino](https://img.shields.io/badge/Rhino-801010.svg?logo=rhinoceros&logoColor=white)](https://www.rhino3d.com/)
 [![Cinema 4D](https://img.shields.io/badge/Cinema%204D-011A6A.svg?logo=maxon&logoColor=white)](https://www.maxon.net/en/cinema-4d)
+[![Octane](https://img.shields.io/badge/Octane-292929.svg?logo=octanerender&logoColor=white)](https://home.otoy.com/)
+[![Substance Designer](https://img.shields.io/badge/Substance%20Designer-563D7C.svg?logo=adobe&logoColor=white)](https://www.adobe.com/products/substance3d-designer.html)
+[![Gravity Sketch](https://img.shields.io/badge/Gravity%20Sketch-FF595E.svg?logo=grav&logoColor=white)](https://www.gravitysketch.com/)
+
+#### **Digital Art Tools**
 [![Procreate](https://img.shields.io/badge/Procreate-%23000000.svg?logo=procreate&logoColor=white)](https://procreate.art/)
-
-
+[![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-%231B72BE.svg?logo=affinity&logoColor=white)](https://affinity.serif.com/en-us/designer/)
 ---
 
 ## 💡 What I’m Learning
