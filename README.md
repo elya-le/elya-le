@@ -4,30 +4,12 @@ I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, an
 
 ---
 
-## 🌟 My Projects
+## 🌟 My Projects / Featured Repos
 
-### **[Communication App](https://elya-le-banter.onrender.com)**
-- A real-time messaging platform with **customizable servers and channels**, built using:
-  - **React.js**, **Socket.io**, **Flask**, and **PostgreSQL**
-- **Focus**: Implementing real-time communication with web sockets.
-- **Result**: Delivered a high-quality app that improved my technical skills and proficiency in **real-time systems**.
-
-### **[E-Commerce Marketplace](https://etsyclone-4ah1.onrender.com)**
-- A collaborative platform for buying and selling unique items, developed with a team using:
-  - **React.js**, **Flask**, **SQLAlchemy**, and **PostgreSQL**
-- **Focus**: Hands-on experience with **asynchronous development** and **version control**.
-- **Result**: Successfully delivered a functional app with efficient code integration and team workflows.
-
-### **[Social Event Platform](https://meetpup-elya.onrender.com/)**
-- A full-stack platform connecting users for local events, built independently using:
-  - **Node.js**, **Express**, **React.js**, and **PostgreSQL**
-- **Focus**: End-to-end development of a feature-rich application.
-- **Result**: Showcased proficiency in backend and frontend integration.
-
-### **Portfolio Website**
-- A showcase of my projects and skills, featuring **3D modeling and motion design** using:
-  - **Three.js**, **Blender**, **Tailwind CSS**, and **React.js**
-- **Focus**: Learning new frameworks and creating an interactive, visually engaging site.
+-   [**Communication App**](https://elya-le-banter.onrender.com): A real-time messaging platform with customizable servers and channels. Built with **React.js**, **Socket.io**, **Flask**, and **PostgreSQL**.
+-   [**E-Commerce Marketplace**](https://etsyclone-4ah1.onrender.com): A collaborative platform for buying and selling unique items, developed with a team using **React.js**, **Flask**, **SQLAlchemy**, and **PostgreSQL**.
+-   [**Social Event Platform**](https://meetpup-elya.onrender.com): A full-stack platform connecting users for local event discovery and planning. Built with **Node.js**, **Express**, **React.js**, and **PostgreSQL**.
+-   [**Portfolio Website**](https://github.com/elya-le/Elya.dev): A showcase of my projects and skills, featuring interactive **3D modeling** and **motion design** using **Three.js**, **Blender**, **Tailwind CSS**, and **React.js**.
 
 ---
 
