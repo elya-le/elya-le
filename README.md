@@ -2,7 +2,7 @@
 
 I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, and 3D art**.
 
-## ✨ Goals
+## 🌱 Goals
 
 I aim to contribute to technology that creates meaningful impact by addressing real-world challenges. My focus is on building scalable, privacy-first applications that emphasize inclusivity and accessibility. 
 
