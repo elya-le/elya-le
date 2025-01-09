@@ -35,7 +35,4 @@ I aim to contribute to technology that creates meaningful impact by addressing r
 
 
 ## 📬 Let’s Connect!
-- **Portfolio**: [elya.dev](https://elya.dev)
-- **Email**: [elya@example.com](mailto:elya@example.com)
-
 
