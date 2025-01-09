@@ -2,7 +2,11 @@
 
 I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, and 3D art**. I specialize in creating **technically robust and thoughtfully designed applications**. I am actively shifting my work to focus on leveraging technology to build solutions that address real-world challenges, promote inclusion, and amplify underrepresented voices.
 
----
+## 💡 What I’m Learning
+I’m currently focused on:
+- **Ruby on Rails**: Building scalable, secure applications with a robust backend framework.
+- **Socket.io with End-to-End Encryption**: Advancing real-time messaging systems with enhanced privacy and security.
+- **Svelte**: Improving efficiency and interactivity in frontend development.
 
 ## 🌟 My Projects / Featured Repos
 
@@ -10,8 +14,6 @@ I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, an
 -   [**E-Commerce Marketplace**](https://etsyclone-4ah1.onrender.com): A collaborative platform for buying and selling unique items, developed with a team using **React.js**, **Flask**, **SQLAlchemy**, and **PostgreSQL**.
 -   [**Social Event Platform**](https://meetpup-elya.onrender.com): A full-stack platform connecting users for local event discovery and planning. Built with **Node.js**, **Express**, **React.js**, and **PostgreSQL**.
 -   [**Portfolio Website**](https://github.com/elya-le/Elya.dev): A showcase of my projects and skills, featuring interactive **3D modeling** and **motion design** using **Three.js**, **Blender**, **Tailwind CSS**, and **React.js**.
-
----
 
 ## 💻 My Skills & Tech Stack
 
@@ -60,15 +62,6 @@ I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, an
 #### **Digital Art Tools**
 [![Procreate](https://img.shields.io/badge/Procreate-%23000000.svg?logo=procreate&logoColor=white)](https://procreate.art/)
 [![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-%231B72BE.svg?logo=affinity&logoColor=white)](https://affinity.serif.com/en-us/designer/)
----
-
-## 💡 What I’m Learning
-I’m currently focused on:
-- **Ruby on Rails**: Building scalable, secure applications with a robust backend framework.
-- **Socket.io with End-to-End Encryption**: Advancing real-time messaging systems with enhanced privacy and security.
-- **Svelte**: Improving efficiency and interactivity in frontend development.
-
----
 
 ## 📬 Let’s Connect!
 - **Portfolio**: [elya.dev](https://elya.dev)
