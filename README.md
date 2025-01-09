@@ -43,9 +43,12 @@ I aim to contribute to technology that creates meaningful impact by addressing r
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![Socket.io](https://img.shields.io/badge/socket.io-black?logo=socket.io&logoColor=white)](https://socket.io/)
 
-### 🗂️ Databases
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23d73351.svg?logo=python&logoColor=white)](https://www.sqlalchemy.org/)
+### 🗂️ Databases and ORMs
+
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white)](https://sequelize.org/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%2361DAFB?logo=sqlalchemy&logoColor=%23FF0000&color=%23202020)](https://www.sqlalchemy.org/)
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ### 🛠 Tools and Platforms
 
