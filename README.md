@@ -51,7 +51,6 @@ I aim to contribute to technology that creates meaningful impact by addressing r
 [![Chai](https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=white)](https://www.chaijs.com/)
 [![npm](https://img.shields.io/badge/npm-%23CB3837.svg?logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white)](https://eslint.org/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)](https://git-scm.com/)
 [![Gunicorn](https://img.shields.io/badge/Gunicorn-499848.svg?logo=gunicorn&logoColor=white)](https://gunicorn.org/)
 
