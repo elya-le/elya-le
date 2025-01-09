@@ -41,8 +41,17 @@ I aim to contribute to technology that creates meaningful impact by addressing r
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23d73351.svg?logo=python&logoColor=white)](https://www.sqlalchemy.org/)
 
-### 🛠 Other Tools
-[![Blender](https://img.shields.io/badge/Blender-F5792A.svg?logo=blender&logoColor=white)](https://www.blender.org/)
+### 🛠 Tools and Platforms
+
+[![Render](https://img.shields.io/badge/Render-%46E3B7.svg?logo=render&logoColor=white)](https://render.com/)
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Twilio](https://img.shields.io/badge/Twilio-F22F46?logo=Twilio&logoColor=white)](https://www.twilio.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)](https://www.docker.com/)
+[![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white)](https://eslint.org/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)](https://git-scm.com/)
 [![Gunicorn](https://img.shields.io/badge/Gunicorn-499848.svg?logo=gunicorn&logoColor=white)](https://gunicorn.org/)
 
 ### 🎨 Design Related Programs/Software
