@@ -6,14 +6,12 @@ I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, an
 
 I aim to contribute to technology that creates meaningful impact by addressing real-world challenges. My focus is on building scalable, privacy-first applications that emphasize inclusivity and accessibility. 
 
-### Currently Advancing My Skills In:
+### 🚀 Currently Advancing My Skills In:
 
-[![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/) Focusing on building scalable, secure applications with a robust backend framework.
-
+[![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
 [![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&logoColor=white)](https://socket.io/)
-[![End-to-End Encryption](https://img.shields.io/badge/End%20to%20End%20Encryption-5E81AC?logo=security&logoColor=white)](https://en.wikipedia.org/wiki/End-to-end_encryption) Advancing real-time messaging systems by implementing enhanced privacy and security measures.
-
-[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)](https://svelte.dev/) Improving frontend efficiency and interactivity through lightweight, modern frameworks.
+[![End-to-End Encryption](https://img.shields.io/badge/End%20to%20End%20Encryption-5E81AC?logo=security&logoColor=white)](https://en.wikipedia.org/wiki/End-to-end_encryption)
+[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)](https://svelte.dev/)
 
 
 
