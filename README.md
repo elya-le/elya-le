@@ -33,50 +33,39 @@ I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, an
 
 ## 💻 My Skills & Tech Stack
 
-### **Languages**
-- **JavaScript**
-- **Python**
-- **SQL**
+### 📚 Languages
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-### **Frontend**
-- **React.js**: Component-based UI development.
-- **Vite**: Fast build tool for modern web projects.
-- **Three.js**: 3D graphics and animations.
-- **Tailwind CSS**: Utility-first framework for custom styling.
+### 🌐 Frontend
+[![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?logo=three.js&logoColor=white)](https://threejs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-### **Backend**
-- **Flask**: Lightweight Python web framework for APIs and web apps.
-- **Node.js**: JavaScript runtime for building scalable backend applications.
-- **Express**: Minimalist backend framework for Node.js.
-- **Socket.io**: Real-time communication for client-server integration.
+### ⚙️ Backend
+[![Flask](https://img.shields.io/badge/flask-%23000000.svg?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Node.js](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
+[![Socket.io](https://img.shields.io/badge/socket.io-black?logo=socket.io&logoColor=white)](https://socket.io/)
 
-### **Databases**
-- **PostgreSQL**: Relational database management system.
-- **SQLAlchemy**: Python SQL toolkit and ORM.
+### 🗂️ Databases
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23d73351.svg?logo=python&logoColor=white)](https://www.sqlalchemy.org/)
 
-### **Other Tools**
-- **Blender**: 3D modeling and motion design.
-- **Gunicorn**: WSGI server for Python web applications (used in production environments).
+### 🛠 Other Tools
+[![Blender](https://img.shields.io/badge/Blender-F5792A.svg?logo=blender&logoColor=white)](https://www.blender.org/)
+[![Gunicorn](https://img.shields.io/badge/Gunicorn-499848.svg?logo=gunicorn&logoColor=white)](https://gunicorn.org/)
 
- ### **Design Related Programs/Software**
+### 🎨 Design Related Programs/Software
+[![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?logo=adobeaftereffects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)
+[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
+[![Adobe Media Encoder](https://img.shields.io/badge/Media%20Encoder-9999FF.svg?logo=adobe&logoColor=white)](https://www.adobe.com/products/media-encoder.html)
+[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)](https://www.figma.com/)
+[![Cinema 4D](https://img.shields.io/badge/Cinema%204D-011A6A.svg?logo=maxon&logoColor=white)](https://www.maxon.net/en/cinema-4d)
+[![Procreate](https://img.shields.io/badge/Procreate-%23000000.svg?logo=procreate&logoColor=white)](https://procreate.art/)
 
-- **Adobe Suite**:
-  - After Effects
-  - Illustrator
-  - Media Encoder
-  - Sketch
-  - Figma
-
-- **3D Design Tools**:
-  - SketchUp (and some Rhino)
-  - Cinema 4D
-  - Octane
-  - Substance Designer
-  - Gravity Sketch
-
-- **Digital Art Tools**:
-  - Procreate
-  - Affinity Designer
 
 ---
 
