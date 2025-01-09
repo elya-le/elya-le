@@ -11,14 +11,7 @@ I’m currently focused learning:
 - **Socket.io with End-to-End Encryption**: Advancing real-time messaging systems with enhanced privacy and security.
 - **Svelte**: Improving efficiency and interactivity in frontend development.
 
-## 🌟 My Projects / Featured Repos
-
--   [**Communication App**](https://elya-le-banter.onrender.com): A real-time messaging platform with customizable servers and channels. Built with **React.js**, **Socket.io**, **Flask**, and **PostgreSQL**.
--   [**E-Commerce Marketplace**](https://etsyclone-4ah1.onrender.com): A collaborative platform for buying and selling unique items, developed with a team using **React.js**, **Flask**, **SQLAlchemy**, and **PostgreSQL**.
--   [**Social Event Platform**](https://meetpup-elya.onrender.com): A full-stack platform connecting users for local event discovery and planning. Built with **Node.js**, **Express**, **React.js**, and **PostgreSQL**.
--   [**Portfolio Website**](https://github.com/elya-le/Elya.dev): A showcase of my projects and skills, featuring interactive **3D modeling** and **motion design** using **Three.js**, **Blender**, **Tailwind CSS**, and **React.js**.
-
-## 💻 My Skills & Tech Stack
+## 💻 My Established Skills & Tech Stack
 
 ### 📚 Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -65,6 +58,14 @@ I’m currently focused learning:
 #### **Digital Art Tools**
 [![Procreate](https://img.shields.io/badge/Procreate-%23000000.svg?logo=procreate&logoColor=white)](https://procreate.art/)
 [![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-%231B72BE.svg?logo=affinity&logoColor=white)](https://affinity.serif.com/en-us/designer/)
+
+## 🌟 My Projects / Featured Repos
+
+-   [**Communication App**](https://elya-le-banter.onrender.com): A real-time messaging platform with customizable servers and channels. Built with **React.js**, **Socket.io**, **Flask**, and **PostgreSQL**.
+-   [**E-Commerce Marketplace**](https://etsyclone-4ah1.onrender.com): A collaborative platform for buying and selling unique items, developed with a team using **React.js**, **Flask**, **SQLAlchemy**, and **PostgreSQL**.
+-   [**Social Event Platform**](https://meetpup-elya.onrender.com): A full-stack platform connecting users for local event discovery and planning. Built with **Node.js**, **Express**, **React.js**, and **PostgreSQL**.
+-   [**Portfolio Website**](https://github.com/elya-le/Elya.dev): A showcase of my projects and skills, featuring interactive **3D modeling** and **motion design** using **Three.js**, **Blender**, **Tailwind CSS**, and **React.js**.
+
 
 ## 📬 Let’s Connect!
 - **Portfolio**: [elya.dev](https://elya.dev)
