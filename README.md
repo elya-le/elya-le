@@ -4,12 +4,15 @@ I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, an
 
 ## ✨ Goals
 
-I aim to contribute to technology that makes a tangible, positive impact by addressing real-world challenges. My focus is on building scalable, privacy-first applications that support inclusivity and accessibility. I’m driven by the opportunity to collaborate with teams that share a commitment to creating meaningful solutions that empower individuals and amplify underrepresented voices.
+I aim to contribute to technology that creates meaningful impact by addressing real-world challenges. My focus is on building scalable, privacy-first applications that emphasize inclusivity and accessibility. 
 
-I’m currently focused learning:
-- **Ruby on Rails**: Building scalable, secure applications with a robust backend framework.
-- **Socket.io with End-to-End Encryption**: Advancing real-time messaging systems with enhanced privacy and security.
-- **Svelte**: Improving efficiency and interactivity in frontend development.
+### 🚀 Currently Advancing My Skills In:
+
+[![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
+[![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&logoColor=white)](https://socket.io/)
+[![End-to-End Encryption](https://img.shields.io/badge/End%20to%20End%20Encryption-5E81AC?logo=security&logoColor=white)](https://en.wikipedia.org/wiki/End-to-end_encryption)
+[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)](https://svelte.dev/)
+
 
 ## 💻 My Established Skills & Tech Stack
 
