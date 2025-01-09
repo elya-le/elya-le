@@ -4,7 +4,7 @@ I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, an
 
 ## 🌱 Goals
 
-I aim to contribute to technology that creates meaningful impact by addressing real-world challenges. My focus is on building scalable, privacy-first applications that emphasize inclusivity and accessibility. 
+I aim to contribute to technology that makes a meaningful impact by addressing real-world challenges. My focus is on developing scalable, privacy-first applications that prioritize inclusivity and accessibility, empowering underrepresented communities.
 
 ### Currently Advancing My Skills In:
 
@@ -13,7 +13,7 @@ I aim to contribute to technology that creates meaningful impact by addressing r
 [![End-to-End Encryption](https://img.shields.io/badge/End%20to%20End%20Encryption-5E81AC?logo=security&logoColor=white)](https://en.wikipedia.org/wiki/End-to-end_encryption)
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)](https://svelte.dev/)
 
-## 🌟 My Projects / Featured Repos
+## 🌟 My Projects & Featured Repos
 
 [**Communication App**](https://elya-le-banter.onrender.com): A real-time messaging platform with customizable servers and channels.  
 [**E-Commerce Marketplace**](https://etsyclone-4ah1.onrender.com): A collaborative platform for buying and selling unique items, developed with a team of four.  
