@@ -20,7 +20,7 @@ I aim to contribute to technology that makes a meaningful impact by addressing r
 [**Social Event Platform**](https://meetpup-elya.onrender.com): A full-stack platform connecting users for local event discovery and planning.  
 [**Portfolio Website**](https://github.com/elya-le/Elya.dev): A showcase of my projects and skills, featuring interactive **3D modeling** and **motion design**.  
 
-## 💻 My Established Skills & Tech Stack
+## My Established Skills & Tech Stack
 
 |                     | **Technologies/Tools**                                                                                                                                                                                                                                                                                                                                                              |
 |---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
