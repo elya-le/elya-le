@@ -22,7 +22,7 @@ With a decade of experience identifying tech-focused solutions for practical cha
 [**Communication App**](https://elya-le-banter.onrender.com): A real-time messaging platform with customizable servers and channels.  
 [**E-Commerce Marketplace**](https://etsyclone-4ah1.onrender.com): A collaborative platform for buying and selling unique items, developed with a team of four.  
 [**Social Event Platform**](https://meetpup-elya.onrender.com): A full-stack platform connecting users for local event discovery and planning.  
-[**Portfolio Website**](https://github.com/elya-le/Elya.dev): A showcase of my projects and skills, featuring interactive **3D modeling** and **motion design**.  
+[**Portfolio Website**](https://github.com/elya-le/s3.elya.dev): A showcase of my projects and skills, featuring interactive **3D modeling** and **motion design**.  
 
 ## My Established Skills & Tech Stack
 
