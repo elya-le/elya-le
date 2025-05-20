@@ -10,7 +10,7 @@ My goal is to use my unique perspective to contribute technology that truly empo
 ## In progress Projects I'm actively building and refining:
 
 ## Polished projects ready for real-world implementation:
-## Client-Ready MVPs
+### Client-Ready MVPs
 [**Communication App**](https://elya-le-banter.onrender.com): A real-time messaging platform with customizable servers and channels.  
 [**E-Commerce Marketplace**](https://etsyclone-4ah1.onrender.com): A collaborative platform for buying and selling unique items, developed with a team of four.  
 [**Social Event Platform**](https://meetpup-elya.onrender.com): A full-stack platform connecting users for local event discovery and planning.  
