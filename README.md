@@ -7,9 +7,9 @@ I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, an
 I'm passionate about building applications that address meaningful challenges while prioritizing privacy, accessibility, and inclusivity. 
 My goal is to use my unique perspective to contribute technology that truly empowers people.
 
-# In progress Projects I'm actively building and refining:
+## In progress Projects I'm actively building and refining:
 
-# Polished projects ready for real-world implementation:
+## Polished projects ready for real-world implementation:
 ## Client-Ready MVPs
 [**Communication App**](https://elya-le-banter.onrender.com): A real-time messaging platform with customizable servers and channels.  
 [**E-Commerce Marketplace**](https://etsyclone-4ah1.onrender.com): A collaborative platform for buying and selling unique items, developed with a team of four.  
