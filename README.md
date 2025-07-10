@@ -28,8 +28,6 @@ A privacy-first end-to-end encrypted messaging, scheduling and client management
 
 I am also documenting my [daily coding practice repository](https://github.com/elya-le/daily-practice)<br> where I solve algorithm challenges and explore new concepts consistently.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elya-le&theme=dark&cache_seconds=86400)](https://git.io/streak-stats)
-
 
 
 ## My Established Skills & Tech Stack
