@@ -1,6 +1,6 @@
 # Hi, I’m Elya!
 
-I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, and 3D art**. [***My Portfolio***](https://elya.dev)
+I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, and 3D art**. [**My Portfolio**](https://elya.dev)
 
 I'm passionate about building privacy-focused, accessible technology that empowers marginalized communities.
 
@@ -23,6 +23,15 @@ A privacy-first end-to-end encrypted messaging, scheduling and client management
 [![Last Practice](https://img.shields.io/github/last-commit/elya-le/daily-practice?logo=github&label=Last%20Practice&color=blue)](https://github.com/elya-le/daily-practice)
 
 **My daily coding practice: [Algorithm Challenges & Tech exploration](https://github.com/elya-le/daily-practice)**
+
+
+
+
+
+
+
+
+
 
 
 
