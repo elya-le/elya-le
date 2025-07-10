@@ -1,7 +1,6 @@
 # Hi, I’m Elya!
 
-I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, and 3D art**. <br> 
-[My Portfolio](https://elya.dev)
+I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, and 3D art**. [My Portfolio](https://elya.dev)
 
 I'm passionate about building privacy-focused, accessible technology that empowers marginalized communities.
 
