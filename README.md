@@ -8,7 +8,7 @@ I'm passionate about building applications that address meaningful challenges wh
 My goal is to use my unique perspective to contribute technology that truly empowers people.
 
 ## In progress Projects I'm actively building and refining:
-A privacy-first scheduling and client management tool designed for service professionals who primarily meet clients in-person. Currently in user research and wireframe testing phase.
+A privacy-first end to end encrypted messaging, scheduling and client management tool designed for service professionals who primarily meet clients in-person. Currently in user research and wireframe testing phase.
 
 ## Polished projects ready for real-world implementation:
 ### Client-Ready MVPs
