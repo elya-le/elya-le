@@ -4,8 +4,7 @@ I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, an
 
 ## Goals
 
-I'm passionate about building applications that address meaningful challenges while prioritizing privacy, accessibility, and inclusivity. 
-My goal is to use my unique perspective to contribute technology that truly empowers people.
+I'm passionate about building privacy-focused, accessible technology that empowers marginalized communities.
 
 ## In progress Projects I'm actively building and refining:
 A privacy-first end-to-end encrypted messaging, scheduling and client management tool designed for service professionals whose client interactions begin in-person rather than online. Currently in user research and wireframe testing phase.
