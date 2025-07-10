@@ -2,8 +2,6 @@
 
 I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, and 3D art**. [My Portfolio](https://elya.dev)
 
-## Goals
-
 I'm passionate about building privacy-focused, accessible technology that empowers marginalized communities.
 
 ## In progress Projects I'm actively building and refining:
