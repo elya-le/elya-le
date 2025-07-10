@@ -24,6 +24,8 @@ A privacy-first end-to-end encrypted messaging, scheduling and client management
 [![End-to-End Encryption](https://img.shields.io/badge/End%20to%20End%20Encryption-5E81AC?logo=security&logoColor=white)](https://en.wikipedia.org/wiki/End-to-end_encryption)
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)](https://svelte.dev/)
 
+Check out my [daily coding practice repository](https://github.com/elya-le/daily-practice) where I solve algorithm challenges and explore new concepts consistently.
+
 ## My Established Skills & Tech Stack
 
 |                     | **Technologies/Tools**                                                                                                                                                                                                                                                                                                                                                              |
