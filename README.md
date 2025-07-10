@@ -1,6 +1,7 @@
 # Hi, I’m Elya!
 
-I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, and 3D art**. [My Portfolio](https://elya.dev)
+I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, and 3D art**. <br> 
+[My Portfolio](https://elya.dev)
 
 I'm passionate about building privacy-focused, accessible technology that empowers marginalized communities.
 
@@ -11,7 +12,7 @@ A privacy-first end-to-end encrypted messaging, scheduling and client management
 [**Communication App**](https://elya-le-banter.onrender.com): A real-time messaging platform with customizable servers and channels.  
 [**E-Commerce Marketplace**](https://etsyclone-4ah1.onrender.com): A collaborative platform for buying and selling unique items, developed with a team of four.  
 [**Social Event Platform**](https://meetpup-elya.onrender.com): A full-stack platform connecting users for local event discovery and planning.  
-[**Portfolio Website**](https://github.com/elya-le/s3.elya.dev): A showcase of my projects and skills, featuring interactive **3D modeling** and **motion design**.  
+[**Repo of Portfolio Website**](https://github.com/elya-le/s3.elya.dev): A showcase of my projects and skills, featuring interactive **3D modeling** and **motion design**.  
 
 ### Currently Advancing My Skills In:
 
