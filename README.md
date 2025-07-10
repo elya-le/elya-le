@@ -23,13 +23,14 @@ A privacy-first end-to-end encrypted messaging, scheduling and client management
 [![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&logoColor=white)](https://socket.io/)
 [![End-to-End Encryption](https://img.shields.io/badge/End%20to%20End%20Encryption-5E81AC?logo=security&logoColor=white)](https://en.wikipedia.org/wiki/End-to-end_encryption)
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)](https://svelte.dev/)
+[![Daily Practice Activity](https://img.shields.io/github/commit-activity/m/elya-le/daily-practice?logo=github&label=Monthly%20Practice&color=brightgreen)](https://github.com/elya-le/daily-practice)
+[![Last Practice](https://img.shields.io/github/last-commit/elya-le/daily-practice?logo=github&label=Last%20Practice&color=blue)](https://github.com/elya-le/daily-practice)
 
 Check out my [daily coding practice repository](https://github.com/elya-le/daily-practice) where I solve algorithm challenges and explore new concepts consistently.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elya-le&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elya-le&theme=dark)](https://git.io/streak-stats)
 
-[![Daily Practice Activity](https://img.shields.io/github/commit-activity/m/elya-le/daily-practice?logo=github&label=Monthly%20Practice&color=brightgreen)](https://github.com/elya-le/daily-practice)
-[![Last Practice](https://img.shields.io/github/last-commit/elya-le/daily-practice?logo=github&label=Last%20Practice&color=blue)](https://github.com/elya-le/daily-practice)
+
 
 ## My Established Skills & Tech Stack
 
