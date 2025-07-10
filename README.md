@@ -28,7 +28,7 @@ A privacy-first end-to-end encrypted messaging, scheduling and client management
 <br><br><br><br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elya-le&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elya-le&layout=compact&theme=transparent&bg_color=00000000)
 ## My Established Skills & Tech Stack
 
 |                     | **Technologies/Tools**                                                                                                                                                                                                                                                                                                                                                              |
