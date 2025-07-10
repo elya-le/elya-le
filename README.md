@@ -1,4 +1,6 @@
 # Hi, I’m Elya!
+![elya-le's GitHub stats](https://github-readme-stats.vercel.app/api?username=elya-le&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elya-le&layout=compact&theme=radical)
 
 I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, and 3D art**. [**My Portfolio**](https://elya.dev)
 
