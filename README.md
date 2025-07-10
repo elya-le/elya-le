@@ -26,7 +26,7 @@ A privacy-first end-to-end encrypted messaging, scheduling and client management
 [![Daily Practice Activity](https://img.shields.io/github/commit-activity/m/elya-le/daily-practice?logo=github&label=Monthly%20Practice&color=brightgreen)](https://github.com/elya-le/daily-practice)
 [![Last Practice](https://img.shields.io/github/last-commit/elya-le/daily-practice?logo=github&label=Last%20Practice&color=blue)](https://github.com/elya-le/daily-practice)
 
-I am also documenting my [daily coding practice repository](https://github.com/elya-le/daily-practice)<br> where I solve algorithm challenges and explore new concepts consistently.
+I am also documenting and loging in my [daily coding practice repository](https://github.com/elya-le/daily-practice)<br> where I solve algorithm challenges and explore new concepts consistently.
 
 
 
