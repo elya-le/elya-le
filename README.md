@@ -1,6 +1,6 @@
 # Hi, I’m Elya!
-![elya-le's GitHub stats](https://github-readme-stats.vercel.app/api?username=elya-le&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elya-le&layout=compact&theme=radical)
+
+
 
 I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, and 3D art**. [**My Portfolio**](https://elya.dev)
 
@@ -26,6 +26,9 @@ A privacy-first end-to-end encrypted messaging, scheduling and client management
 <br><br><br><br>
 **My daily coding practice: [Algorithm Challenges & Tech exploration](https://github.com/elya-le/daily-practice)**
 <br><br><br><br>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elya-le&layout=compact&theme=radical)
 ## My Established Skills & Tech Stack
 
 |                     | **Technologies/Tools**                                                                                                                                                                                                                                                                                                                                                              |
