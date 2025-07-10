@@ -1,6 +1,6 @@
 # Hi, I’m Elya!
 
-I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, and 3D art**.
+I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, and 3D art**. [My Portfolio](https://elya.dev)
 
 ## Goals
 
