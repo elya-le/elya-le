@@ -4,11 +4,10 @@ I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, an
 
 I'm passionate about building privacy-focused, accessible technology that empowers marginalized communities.
 
-## In progress Projects I'm actively building and refining:
+## In progress Projects
 A privacy-first end-to-end encrypted messaging, scheduling and client management tool designed for service professionals whose client interactions begin in-person rather than online. Currently in user research and wireframe testing phase.
 
-## Polished projects ready for real-world implementation:
-### Client-Ready MVPs
+## Client-Ready MVPs
 [**Communication App**](https://elya-le-banter.onrender.com): A real-time messaging platform with customizable servers and channels.  
 [**E-Commerce Marketplace**](https://etsyclone-4ah1.onrender.com): A collaborative platform for buying and selling unique items, developed with a team of four.  
 [**Social Event Platform**](https://meetpup-elya.onrender.com): A full-stack platform connecting users for local event discovery and planning.  
