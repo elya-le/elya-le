@@ -4,7 +4,7 @@
 
 I’m a **Full-Stack Developer** with a background in **UI/UX, motion design, and 3D art**. [**My Portfolio**](https://elya.dev)
 
-I'm passionate about building privacy-focused, accessible technology that empowers marginalized communities.
+I'm passionate about expanding and growing my knowleged to build privacy-focused, accessible technology that empowers marginalized communities.
 
 ## In progress Projects
 A privacy-first end-to-end encrypted messaging, scheduling and client management tool designed for service professionals whose client interactions begin in-person rather than online. Currently in user research and wireframe testing phase.
